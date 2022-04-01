@@ -4,16 +4,16 @@
 
 **Build Command**: `npm run build` \
 **Output Directory**: `build` \
-**Root Directory**: `create-react-app` \
+**Root Directory**: `create-react-app`
 
 ## React MUI Pages
 
 **Build Command**: `npm run build` \
 **Output Directory**: `build` \
-**Root Directory**: `react-mui-pages` \
+**Root Directory**: `react-mui-pages`
 
 ## Remix MUI Pages
 
 **Build Command**: `npm run build` \
 **Output Directory**: `public` \
-**Root Directory**: `remix-mui-pages` \
+**Root Directory**: `remix-mui-pages`
