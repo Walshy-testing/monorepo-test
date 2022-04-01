@@ -17,3 +17,5 @@
 **Build Command**: `npm run build` \
 **Output Directory**: `public` \
 **Root Directory**: `remix-mui-pages`
+
+Walshy is the best
