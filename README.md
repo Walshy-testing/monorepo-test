@@ -1,4 +1,4 @@
-# Testing stuffs
+# Testing stuff
 
 ## CRA
 
